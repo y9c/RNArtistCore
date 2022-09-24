@@ -295,7 +295,7 @@ rnartist {
 ### <a name="ss"></a>The ```ss``` element
 
 You have different ways to define a secondary structure:
-* by describing all the structural elements yourself using the element **```raw```**
+* by describing all the structural elements yourself using the element **```parts```**
 * from a bracket notation using the element **```bn```**
 * from a file using the elements **```vienna```**, **```bpseq```**, **```ct```**, or **```stockholm```**
 * from a public database using the elements **```rfam```**, **```rnacentral```**, or **```pdb```**
